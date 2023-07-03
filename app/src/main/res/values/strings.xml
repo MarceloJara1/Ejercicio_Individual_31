@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ejercicio Individual 31</string>
+    <string name="sqlite_user_management">SQLite - User Management</string>
+    <string name="name">Name</string>
+    <string name="user_name">User name</string>
+    <string name="user_age">User age</string>
+    <string name="add">ADD</string>
+    <string name="delete">DELETE</string>
+    <string name="show_all">SHOW ALL</string>
+</resources>
